@@ -1,0 +1,22 @@
+{
+  "name": "pipboydata",
+  "version": "1.0.0",
+  "description": "pip boy data for mucking with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgbkrk/pipboydata.git"
+  },
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/rgbkrk/pipboydata/issues"
+  },
+  "homepage": "https://github.com/rgbkrk/pipboydata#readme",
+  "dependencies": {
+    "pipboylib": "^1.1.1"
+  }
+}
